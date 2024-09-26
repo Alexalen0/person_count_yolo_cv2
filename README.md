@@ -1,1 +1,1 @@
-"# person_count_yolo_cv2" 
+Person count using yolo and cv2 backend
